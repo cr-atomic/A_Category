@@ -6,7 +6,7 @@
 //  Copyright © 2018 cocoaroger. All rights reserved.
 //
 
-#import "CRMediator.h"
+#import <CRMediator/CRMediator.h>
 #import <UIKit/UIKit.h>
 
 @interface CRMediator (A)
